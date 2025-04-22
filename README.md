@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Foundation-9
 
 🎓 Master's student in Data Science
-🚀 Aspiring AI Engineer | 
-🌍 Exploring roles in 🇨🇭 Switzerland, 🌐 Remote, and 🇱🇺 Luxembourg 
+🚀 Aspiring AI Engineer | Python | C++
 
 ## 🔧 Tech Stack
 
